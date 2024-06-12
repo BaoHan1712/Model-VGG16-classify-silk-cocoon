@@ -1,7 +1,6 @@
 <h2>PICTURE VGG 16 </h2>
 
-https://drive.google.com/uc?export=view&id=17VQILrDBAN8FdzrVOvFVeH95fFjD5Idu
-
+<div><img src="data/pic1.png"alt="Hello" style="width:100%;max-width:640px"></div>
 
 <h2>Note</h2>
 
