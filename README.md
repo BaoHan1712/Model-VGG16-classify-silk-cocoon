@@ -1,6 +1,7 @@
 <h2>VGG 16 </h2>
 
-![vgg16](data\pic1.png)
+![picVGG16](https://drive.google.com/file/d/17VQILrDBAN8FdzrVOvFVeH95fFjD5Idu/view?usp=sharing)
+
 
 <h2>Note</h2>
 
