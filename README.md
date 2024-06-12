@@ -1,7 +1,6 @@
 <h2>VGG 16 </h2>
 
-[![picVGG16](https://drive.google.com/file/d/17VQILrDBAN8FdzrVOvFVeH95fFjD5Idu/view?usp=sharing)](https://drive.google.com/uc?export=view&id=17VQILrDBAN8FdzrVOvFVeH95fFjD5Idu
-)
+https://drive.google.com/uc?export=view&id=17VQILrDBAN8FdzrVOvFVeH95fFjD5Idu
 
 
 <h2>Note</h2>
